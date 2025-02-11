@@ -1,4 +1,4 @@
-package YAIP4_6;
+package YAIP4;
 
 public class Animal {
 	private String name;
