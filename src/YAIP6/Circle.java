@@ -1,7 +1,7 @@
 package YAIP6;
 
 public class Circle implements GeometricObject {
-	private double 	radius;
+	protected static  double radius;
 	
 	public Circle ( double radius) {
 		this.radius = radius; 
